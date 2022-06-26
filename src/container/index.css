@@ -1,0 +1,13 @@
+.true{
+    color:red;
+}
+.false{
+    color:green;
+}
+.main{
+    width:60%;
+    display:auto;
+    justify-content: center;
+    align-content: center;
+    margin-left:280px;
+}
